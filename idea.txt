@@ -1,0 +1,7 @@
+project jumat -> buat flask web page 4 rute min, buat layout, harus ada static javascript sm gambar
+
+ide -> nav header, scrolly assets, account picture, game about, retro gameplay mini
+
+assets -> background song, sound effect, visit my wattpad as storytale refererence for game
+
+dimencreas name quote needed.
